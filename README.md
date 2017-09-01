@@ -8,4 +8,6 @@ A Java maven project.
 
 ### Run tests
 
-> mvn test
+```bash
+mvn test
+```
