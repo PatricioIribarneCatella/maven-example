@@ -9,5 +9,6 @@ A Java maven project.
 ### Run tests
 
 ```bash
-mvn test
+ $ mvn test
 ```
+
